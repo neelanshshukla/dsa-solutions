@@ -10,6 +10,3 @@ My daily practice solutions for Data Structures and Algorithms in C++.
 - `arrays/` - Array manipulation, two pointers, sliding window
 - `strings/` - String manipulation, palindromes
 - `logical/` - Logic and math-based problems
-
-## Progress
-- Problems solved: 5+
